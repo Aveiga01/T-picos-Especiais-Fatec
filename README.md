@@ -1,3 +1,6 @@
 # Topicos-Especiais-Fatec<h1>
   
- Diretorio destinado a compartilhamento na Materia *Topicos Especias*
+ Repositorio destinado a Materia *Topicos Especias*
+ 
+ ### Arquivos diponiveis:
+ *
